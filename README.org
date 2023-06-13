@@ -1,0 +1,10 @@
+* qlot
+
+A project-local library installer for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/qlot.git   |
+| commit  | aed5761  |
+| systems | qlot |
+|---------+-------------------------------------------|
+
