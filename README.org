@@ -4,6 +4,6 @@ A project-local library installer for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fukamachi/qlot.git |
-| commit  | f32df9d                                   |
+| commit  | 799d719                                   |
 | systems | qlot                                      |
 |---------+-------------------------------------------|
