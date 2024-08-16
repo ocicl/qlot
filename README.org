@@ -3,7 +3,7 @@
 A project-local library installer for Common Lisp
 
 |---------+------------------------------------------------------------------|
-| source  | https://github.com/fukamachi/qlot/archive/refs/tags/1.5.9.tar.gz |
+| file    | https://github.com/fukamachi/qlot/archive/refs/tags/1.5.9.tar.gz |
 | version | 1.5.9                                                            |
 | systems | qlot                                                             |
 |---------+------------------------------------------------------------------|
